@@ -22,7 +22,7 @@
     "node-cron": "^3.0.0",
     "pg": "^8.5.1",
     "pg-hstore": "^2.3.3",
-    "sequelize": "^6.6.2",
+    "sequelize": "^6.6.5",
     "winston": "^3.3.3",
     "xss-clean": "^0.1.1"
   },
